@@ -13,7 +13,7 @@ import (
 
 var Cmd = &bonzai.Cmd{
   Name: `datedir`,
-  Vers: `v0.0.1`,
+  Vers: `v0.0.2`,
   Short: `Make, remove and switch to directory for current date`,
   Alias: `d`,
   Long: `
@@ -48,7 +48,7 @@ var mkdirCmd = &bonzai.Cmd{
   Comp: comp.Cmds,
   Short: `Create directory for the current date`,
   Do: func(cmd *bonzai.Cmd, _ ...string) error {
-    term.Print(fmt.Sprintf("%s %s", cmd.Name, currentDate()))
+    term.Print(fmt.Sprintf("Creating directory %s", currentDate()))
 
     return os.Mkdir(currentDate(), 0755)
   },
@@ -60,7 +60,7 @@ var rmdirCmd = &bonzai.Cmd{
   Short: `Remove directory for the current date`,
   Comp: comp.Cmds,
   Do: func(cmd *bonzai.Cmd, _ ...string) error {
-    term.Print(fmt.Sprintf("%s %s", cmd.Name, currentDate()))
+    term.Print(fmt.Sprintf("Removing directory %s", currentDate()))
 
     return os.Remove(currentDate())
   },

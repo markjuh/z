@@ -3,7 +3,7 @@ module github.com/markjuh/z/cmds/datedir
 go 1.23.3
 
 require (
-	github.com/rwxrob/bonzai v0.43.0
+	github.com/rwxrob/bonzai v0.43.1
 	github.com/rwxrob/bonzai/cmds/help v0.6.0
 	github.com/rwxrob/bonzai/comp v0.9.5
 	github.com/rwxrob/term v0.2.9
