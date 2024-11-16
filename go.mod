@@ -3,9 +3,9 @@ module github.com/markjuh/z
 go 1.23.3
 
 require (
-	github.com/markjuh/z/cmds/datedir v0.0.3
+	github.com/markjuh/z/cmds/datedir v0.0.4
 	github.com/rwxrob/bonzai v0.43.1
-	github.com/rwxrob/bonzai/cmds/help v0.6.0
+	github.com/rwxrob/bonzai/cmds/help v0.6.1
 	github.com/rwxrob/bonzai/cmds/kimono v0.6.0
 	github.com/rwxrob/bonzai/cmds/sunrise v1.0.2
 	github.com/rwxrob/bonzai/comp v0.9.5
@@ -19,7 +19,7 @@ require (
 	github.com/rwxrob/bonzai/fn v0.8.2 // indirect
 	github.com/rwxrob/bonzai/futil v0.1.0 // indirect
 	github.com/rwxrob/bonzai/is v0.3.0 // indirect
-	github.com/rwxrob/bonzai/mark v0.10.1 // indirect
+	github.com/rwxrob/bonzai/mark v0.10.2 // indirect
 	github.com/rwxrob/bonzai/mark/funcs v0.3.0 // indirect
 	github.com/rwxrob/bonzai/run v0.7.0 // indirect
 	github.com/rwxrob/bonzai/scanner v0.1.0 // indirect
