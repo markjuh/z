@@ -9,6 +9,7 @@ import "github.com/rwxrob/bonzai/cmds/kimono"
 import "github.com/rwxrob/bonzai/cmds/sunrise"
 
 // My own commands.
+import "github.com/markjuh/z/cmds/datedir"
 
 var Cmd = &bonzai.Cmd{
   Name: `z`,
@@ -16,6 +17,7 @@ var Cmd = &bonzai.Cmd{
   Comp: comp.Cmds,
   Def: help.Cmd,
   Cmds: []*bonzai.Cmd{
+    datedir.Cmd,
     help.Cmd,
     kimono.Cmd,
     sunrise.Cmd,

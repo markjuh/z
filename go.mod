@@ -3,7 +3,8 @@ module github.com/markjuh/z
 go 1.23.3
 
 require (
-	github.com/rwxrob/bonzai v0.43.0
+	github.com/markjuh/z/cmds/datedir v0.0.2
+	github.com/rwxrob/bonzai v0.43.1
 	github.com/rwxrob/bonzai/cmds/help v0.6.0
 	github.com/rwxrob/bonzai/cmds/kimono v0.6.0
 	github.com/rwxrob/bonzai/cmds/sunrise v1.0.2

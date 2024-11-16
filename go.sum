@@ -1,7 +1,9 @@
+github.com/markjuh/z/cmds/datedir v0.0.2 h1:6uRcNaAA9Dol9IRZjF6+xbXLIZZgPgeI+DHqwy7dPl0=
+github.com/markjuh/z/cmds/datedir v0.0.2/go.mod h1:JnzBUOwhO1nQKNSAN0+rWxXIZHWU9w9/7E55kp2IlF8=
 github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR38lUII=
 github.com/rogpeppe/go-internal v1.13.1/go.mod h1:uMEvuHeurkdAXX61udpOXGD/AzZDWNMNyH2VO9fmH0o=
-github.com/rwxrob/bonzai v0.43.0 h1:QhTy7U7sZkSZLhO2MqwlYQ3rKO8NO/4Q+Gq1fBBvyOg=
-github.com/rwxrob/bonzai v0.43.0/go.mod h1:217QTdfv41+Dji8cAeko6oXcaPR9I31xvbOP9ksNx5U=
+github.com/rwxrob/bonzai v0.43.1 h1:E2EFuPhH8Fure5VpczK3tkCEnJuX7rpMEgowrDDd5oU=
+github.com/rwxrob/bonzai v0.43.1/go.mod h1:217QTdfv41+Dji8cAeko6oXcaPR9I31xvbOP9ksNx5U=
 github.com/rwxrob/bonzai/anim v0.1.0 h1:1ZwIKeQtdYDrQy5xYe/sNb5ljpQm46mWD7Feratxh6c=
 github.com/rwxrob/bonzai/anim v0.1.0/go.mod h1:0o9zqf4WeCiuYXpvktoJ4th2TJakazSlRhEZ7DA2PTA=
 github.com/rwxrob/bonzai/cmds/help v0.6.0 h1:IPd+xxCgCO3zygCxY9ZXagvex4gfUjKMmECUz45+aCY=
