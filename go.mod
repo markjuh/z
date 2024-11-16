@@ -9,7 +9,6 @@ require (
 	github.com/rwxrob/bonzai/cmds/kimono v0.6.0
 	github.com/rwxrob/bonzai/cmds/sunrise v1.0.2
 	github.com/rwxrob/bonzai/comp v0.9.5
-	github.com/rwxrob/term v0.2.9
 )
 
 require (
@@ -28,6 +27,7 @@ require (
 	github.com/rwxrob/bonzai/to v0.2.0 // indirect
 	github.com/rwxrob/bonzai/uniq v0.1.0 // indirect
 	github.com/rwxrob/bonzai/vars v0.12.0 // indirect
+	github.com/rwxrob/term v0.2.9 // indirect
 	golang.org/x/crypto v0.29.0 // indirect
 	golang.org/x/mod v0.22.0 // indirect
 	golang.org/x/sys v0.27.0 // indirect
