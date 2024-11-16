@@ -1,5 +1,7 @@
 github.com/markjuh/z/cmds/datedir v0.0.2 h1:6uRcNaAA9Dol9IRZjF6+xbXLIZZgPgeI+DHqwy7dPl0=
 github.com/markjuh/z/cmds/datedir v0.0.2/go.mod h1:JnzBUOwhO1nQKNSAN0+rWxXIZHWU9w9/7E55kp2IlF8=
+github.com/markjuh/z/cmds/datedir v0.0.3 h1:Eya3iDayDEDzc6w69T3FSzgBQMEXKA5+kx9o2bTfFkI=
+github.com/markjuh/z/cmds/datedir v0.0.3/go.mod h1:J+wTig4YHRKUX5NX2pKCJdzg2xZwsOrMrwGUxej8hTs=
 github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR38lUII=
 github.com/rogpeppe/go-internal v1.13.1/go.mod h1:uMEvuHeurkdAXX61udpOXGD/AzZDWNMNyH2VO9fmH0o=
 github.com/rwxrob/bonzai v0.43.1 h1:E2EFuPhH8Fure5VpczK3tkCEnJuX7rpMEgowrDDd5oU=
@@ -28,6 +30,8 @@ github.com/rwxrob/bonzai/json v0.1.0 h1:TtXGLhe6eJTLtW/NjvgA73xjrl/Dcv1qYqktzLx2
 github.com/rwxrob/bonzai/json v0.1.0/go.mod h1:6gHFzs0Bjc8Ixv1VGRuO36YVO7Y9hSzjXj+DrMDqh7Y=
 github.com/rwxrob/bonzai/mark v0.9.0 h1:RDoecqkueH8hrIc3ePRMyhjLbG8F5k1nCfw5JW/3Hy8=
 github.com/rwxrob/bonzai/mark v0.9.0/go.mod h1:CTglbJUzVq8ywLGNGQn1Us3t7IbOS88dIUOqfXkP3x0=
+github.com/rwxrob/bonzai/mark v0.10.1 h1:MkdwwGkOLA9lR58ciVakNNm4GTKfRC/ZZA9AytfwYo8=
+github.com/rwxrob/bonzai/mark v0.10.1/go.mod h1:6gZElR9JiqePsPHQL7zeNqgh5uHjWmGFgiutQrpAL/8=
 github.com/rwxrob/bonzai/mark/funcs v0.3.0 h1:C9omiB2IDnODvxZRjlVMe2HCYKVaF05V+xFWQfHaqN8=
 github.com/rwxrob/bonzai/mark/funcs v0.3.0/go.mod h1:sWeUmbf+TX0V1xI6v7mj+YC8JNp2q/4f9EFyRpLLP+M=
 github.com/rwxrob/bonzai/run v0.7.0 h1:rP1GPxkLocijBVEs58duMymKTiyQfbthfoAh7VoThG0=
