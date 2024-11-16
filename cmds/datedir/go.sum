@@ -6,6 +6,8 @@ github.com/rwxrob/bonzai v0.43.1 h1:E2EFuPhH8Fure5VpczK3tkCEnJuX7rpMEgowrDDd5oU=
 github.com/rwxrob/bonzai v0.43.1/go.mod h1:217QTdfv41+Dji8cAeko6oXcaPR9I31xvbOP9ksNx5U=
 github.com/rwxrob/bonzai/cmds/help v0.6.0 h1:IPd+xxCgCO3zygCxY9ZXagvex4gfUjKMmECUz45+aCY=
 github.com/rwxrob/bonzai/cmds/help v0.6.0/go.mod h1:Jy6h/etKspFiGh54tgGFvetKze2ORoILCoVXgCIW8Z0=
+github.com/rwxrob/bonzai/cmds/help v0.6.1 h1:jxy0gJpGgolMbIpRV3gcQtamSmo4z5KzuGuzmH0+0TA=
+github.com/rwxrob/bonzai/cmds/help v0.6.1/go.mod h1:h7QgDqQ/rFZ9hkoM3ZImW2A2mh16Yd6c0lcUjM+MOXU=
 github.com/rwxrob/bonzai/comp v0.9.5 h1:6N9aIMlrazKhMCKwB76YWHedgGpdmrHgDPaBOC1gksE=
 github.com/rwxrob/bonzai/comp v0.9.5/go.mod h1:+MNs1lxC9QSxyBp8AzefQ/wGN8X+kD3dxSY5x8s/qaA=
 github.com/rwxrob/bonzai/ds v0.1.1 h1:yC+GoUH/5TPt86qJmQRsD8OHuODJoDt9UgkWQM8yPzA=
@@ -20,6 +22,8 @@ github.com/rwxrob/bonzai/mark v0.9.0 h1:RDoecqkueH8hrIc3ePRMyhjLbG8F5k1nCfw5JW/3
 github.com/rwxrob/bonzai/mark v0.9.0/go.mod h1:CTglbJUzVq8ywLGNGQn1Us3t7IbOS88dIUOqfXkP3x0=
 github.com/rwxrob/bonzai/mark v0.10.1 h1:MkdwwGkOLA9lR58ciVakNNm4GTKfRC/ZZA9AytfwYo8=
 github.com/rwxrob/bonzai/mark v0.10.1/go.mod h1:6gZElR9JiqePsPHQL7zeNqgh5uHjWmGFgiutQrpAL/8=
+github.com/rwxrob/bonzai/mark v0.10.2 h1:VNlhI760AKZljf42nO54lHfIRzv0UI6ZMdLmwaqtMmc=
+github.com/rwxrob/bonzai/mark v0.10.2/go.mod h1:6gZElR9JiqePsPHQL7zeNqgh5uHjWmGFgiutQrpAL/8=
 github.com/rwxrob/bonzai/mark/funcs v0.3.0 h1:C9omiB2IDnODvxZRjlVMe2HCYKVaF05V+xFWQfHaqN8=
 github.com/rwxrob/bonzai/mark/funcs v0.3.0/go.mod h1:sWeUmbf+TX0V1xI6v7mj+YC8JNp2q/4f9EFyRpLLP+M=
 github.com/rwxrob/bonzai/run v0.7.0 h1:rP1GPxkLocijBVEs58duMymKTiyQfbthfoAh7VoThG0=
