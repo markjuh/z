@@ -18,6 +18,8 @@ github.com/rwxrob/bonzai/is v0.3.0 h1:bTUkpx2cj4JlKoap6RKAqix12SAP2h9H+BhhxQysnh
 github.com/rwxrob/bonzai/is v0.3.0/go.mod h1:nxuqAGGBVYyq3bwXI0cFEl0xoAFVUrSJE7QVw81A3u8=
 github.com/rwxrob/bonzai/mark v0.9.0 h1:RDoecqkueH8hrIc3ePRMyhjLbG8F5k1nCfw5JW/3Hy8=
 github.com/rwxrob/bonzai/mark v0.9.0/go.mod h1:CTglbJUzVq8ywLGNGQn1Us3t7IbOS88dIUOqfXkP3x0=
+github.com/rwxrob/bonzai/mark v0.10.1 h1:MkdwwGkOLA9lR58ciVakNNm4GTKfRC/ZZA9AytfwYo8=
+github.com/rwxrob/bonzai/mark v0.10.1/go.mod h1:6gZElR9JiqePsPHQL7zeNqgh5uHjWmGFgiutQrpAL/8=
 github.com/rwxrob/bonzai/mark/funcs v0.3.0 h1:C9omiB2IDnODvxZRjlVMe2HCYKVaF05V+xFWQfHaqN8=
 github.com/rwxrob/bonzai/mark/funcs v0.3.0/go.mod h1:sWeUmbf+TX0V1xI6v7mj+YC8JNp2q/4f9EFyRpLLP+M=
 github.com/rwxrob/bonzai/run v0.7.0 h1:rP1GPxkLocijBVEs58duMymKTiyQfbthfoAh7VoThG0=
