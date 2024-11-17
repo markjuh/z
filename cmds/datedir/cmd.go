@@ -13,7 +13,7 @@ import (
 
 var Cmd = &bonzai.Cmd{
   Name: `datedir`,
-  Vers: `v0.0.6`,
+  Vers: `v0.0.7`,
   Short: `make, remove and switch to directory for current date`,
   Alias: `d`,
   Long: `
