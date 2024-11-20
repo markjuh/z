@@ -1,5 +1,7 @@
 github.com/markjuh/z/cmds/datedir v0.0.8 h1:3dfhwnlqMz9/k/yIulFhlUj02yFjIoU2YGj5m9tHdvA=
 github.com/markjuh/z/cmds/datedir v0.0.8/go.mod h1:r+Vejwh/tSRa4PtLMZKuocnCe/UaOCDB8EtbytWztPA=
+github.com/markjuh/z/cmds/datedir v0.0.9 h1:RAfcFQcLPmNcy6xRGUKYSl7LtDhv6Gam2fKnA2q8GeQ=
+github.com/markjuh/z/cmds/datedir v0.0.9/go.mod h1:r+Vejwh/tSRa4PtLMZKuocnCe/UaOCDB8EtbytWztPA=
 github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR38lUII=
 github.com/rogpeppe/go-internal v1.13.1/go.mod h1:uMEvuHeurkdAXX61udpOXGD/AzZDWNMNyH2VO9fmH0o=
 github.com/rwxrob/bonzai v0.51.0 h1:FuEXbSHsim1Cseb0gnL2Dq+fqBcOZ4WmSt8vBMpC2bk=
