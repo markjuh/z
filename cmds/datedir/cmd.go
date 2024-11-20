@@ -13,8 +13,8 @@ import (
 
 var Cmd = &bonzai.Cmd{
   Name: `datedir`,
-  Vers: `v0.0.8`,
-  Short: `make, remove and switch to directory for current date`,
+  Vers: `v0.0.9`,
+  Short: `directory utilities for current date`,
   Alias: `d`,
   Long: `
     The {{aka .}} command can create and remove a directory for the
@@ -33,7 +33,7 @@ var Cmd = &bonzai.Cmd{
 var cdCmd = &bonzai.Cmd{
   Name: `cd`,
   Comp: comp.Cmds,
-  Short: `chang to directory for the current date`,
+  Short: `change to directory for the current date`,
   Do: func(cmd *bonzai.Cmd, _ ...string) error {
     term.Print(fmt.Sprintf("%s %s", cmd.Name, currentDate()))
 
