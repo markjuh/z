@@ -3,12 +3,12 @@ module github.com/markjuh/z
 go 1.23.3
 
 require (
-	github.com/markjuh/z/cmds/datedir v0.0.9
-	github.com/rwxrob/bonzai v0.51.0
-	github.com/rwxrob/bonzai/cmds/help v0.7.5
-	github.com/rwxrob/bonzai/cmds/kimono v0.7.0
-	github.com/rwxrob/bonzai/cmds/rayfish v1.0.0
-	github.com/rwxrob/bonzai/cmds/sunrise v1.0.2
+	github.com/markjuh/z/cmds/datedir v0.0.10
+	github.com/rwxrob/bonzai v0.53.0
+	github.com/rwxrob/bonzai/cmds/help v0.7.6
+	github.com/rwxrob/bonzai/cmds/kimono v0.8.0
+	github.com/rwxrob/bonzai/cmds/rayfish v1.0.2
+	github.com/rwxrob/bonzai/cmds/sunrise v1.0.3
 	github.com/rwxrob/bonzai/comp v0.10.0
 )
 
@@ -36,3 +36,5 @@ require (
 	golang.org/x/term v0.26.0 // indirect
 	gonum.org/v1/gonum v0.15.1 // indirect
 )
+
+// replace github.com/rwxrob/bonzai => /home/mark/projects/markjuh/bonzai
