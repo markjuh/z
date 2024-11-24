@@ -2,8 +2,12 @@ github.com/rogpeppe/go-internal v1.13.1 h1:KvO1DLK/DRN07sQ1LQKScxyZJuNnedQ5/wKSR
 github.com/rogpeppe/go-internal v1.13.1/go.mod h1:uMEvuHeurkdAXX61udpOXGD/AzZDWNMNyH2VO9fmH0o=
 github.com/rwxrob/bonzai v0.51.0 h1:FuEXbSHsim1Cseb0gnL2Dq+fqBcOZ4WmSt8vBMpC2bk=
 github.com/rwxrob/bonzai v0.51.0/go.mod h1:217QTdfv41+Dji8cAeko6oXcaPR9I31xvbOP9ksNx5U=
+github.com/rwxrob/bonzai v0.53.0 h1:JMbyAunbBh6PFmDlwLCdWIaEcjKW5P60GfAUKbctbyY=
+github.com/rwxrob/bonzai v0.53.0/go.mod h1:217QTdfv41+Dji8cAeko6oXcaPR9I31xvbOP9ksNx5U=
 github.com/rwxrob/bonzai/cmds/help v0.7.5 h1:awtACoXrMsuRmqR+RpNFo6sCNGEVCleOhl36Bc2DfOw=
 github.com/rwxrob/bonzai/cmds/help v0.7.5/go.mod h1:L2aHQBinzBLspqGTe1UTjf9npZRS/ivtrMbr/LG2rmM=
+github.com/rwxrob/bonzai/cmds/help v0.7.6 h1:7bejW/KwN4wBjiOVaC2S/fZRESmcbRvukRCuvt8Ro4I=
+github.com/rwxrob/bonzai/cmds/help v0.7.6/go.mod h1:5/UvA+kPBhra3F8eV+gztzwMDCTJq9BNTBWGGxCPddk=
 github.com/rwxrob/bonzai/comp v0.10.0 h1:zwwIyK+YyxNNAUjNmo4NcVd/mnx0Mhs2MjulwulvVhc=
 github.com/rwxrob/bonzai/comp v0.10.0/go.mod h1:+MNs1lxC9QSxyBp8AzefQ/wGN8X+kD3dxSY5x8s/qaA=
 github.com/rwxrob/bonzai/ds v0.1.1 h1:yC+GoUH/5TPt86qJmQRsD8OHuODJoDt9UgkWQM8yPzA=
